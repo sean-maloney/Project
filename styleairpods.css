@@ -1,4 +1,47 @@
 *{
-    background-color: black;
     color: white;
+    font-family: "Helvetica Neue", sans-serif; 
+    box-sizing: border-box; 
+}
+
+.clearfix::after{
+    content:"";
+    clear: both;
+    display: block;
+    margin-bottom: 20px;
+}
+
+#para1-div{
+margin-bottom: 200px;
+font-size: 70px;
+}
+
+#mainpic-div{
+    width: 100%;
+}
+#box1-div{
+    width: 100%;
+}
+
+#box1a-div{
+    width:50%;
+    margin: 50px;
+    float: left;
+    height:300px;
+    text-align: center;
+    font-size: large;
+}
+
+#box1b-div{
+    float: right;
+    margin-right: 100px;
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    color:white;
+    font-family: "Helvetica Neue", sans-serif;
 }
