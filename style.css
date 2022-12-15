@@ -4,16 +4,11 @@
     font-family: "Helvetica Neue", sans-serif;
     box-sizing: border-box;
 }
-
-#wrapper-div{
-    margin:auto;
-    background-color:black;
-    }
 body{
-    background-color:black;
+    background-color:white;
 }
 p{
-    color:white;
+    color:#86868B;
     font-family: "Helvetica Neue", sans-serif;
     padding: 8px;
     font-size:large;
@@ -22,26 +17,78 @@ p{
 nav{
     text-align:center;
     font-family: "Helvetica Neue", sans-serif;
-    background-color:white;
-    line-height: 50px;
-    font-size:large;
+    background-color:black;
+    line-height: 40px;
+    font-size:medium;
     margin-bottom: 10px;
     float: left;
     width:100%;
-    word-spacing: 60px;
 }
 h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
-    color: white;
+    color: Black;
     text-align: center;
   }
-  img{
-      float:left;
-      width:33.3%;
-      height:33.3%
-  }
+
   ul{
       text-align: center;
       float: center;
       width:100%;
   }
+
+  #navbar img{
+      width:10%;
+      float:left;
+      height: 40px;
+      width: 60px
+  }
+  #navbar a{
+      width:13.82%;
+      float:left;
+      padding-left: 20px;
+      color:#D6D6D6;
+      font-family: "Helvetica Neue", sans-serif;
+      text-decoration: none;
+      background-color: #323233;
+  }
+#navbar{
+    width:100%;
+
+}
+  
+  #logo{
+    float:left;
+    width:10%;
+}
+  #products{
+      height: 380px;
+    }
+  #products img{
+        float:left;
+        width:33.3%;
+        height:100%;
+    }
+    #Branding1{
+        height:227px;
+    }
+    #Branding1 img{
+        height: 100%;
+        width: 100%;
+    }
+    #support{
+        height:130px;
+        background-color: #F2F2F2;
+    }
+    #support p{
+        text-align: left;
+        padding-left: 40px;
+        color: #555555;
+        font-family: "Helvetica Neue", sans-serif;
+    }
+    #support a{
+        text-decoration: none;
+        color:black;
+    }
+    #about p{
+        color: #86868B;
+    }
