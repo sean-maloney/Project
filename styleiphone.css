@@ -1,10 +1,104 @@
-*{
-    margin:0px%;
-    padding:0px;
-    font-family: Arial, Helvetica, sans-serif;
-    box-sizing: border-box;
-}
 
-#wrapper-div{
-    margin:auto;
+   header {
+        background-color:#F2F2F2;
+        color:#F2F2F2;
+        padding: 20px;
+      }
+      
+      h1 {
+        margin: 0;
+      }
+      
+      nav{
+        text-align:center;
+        font-family: "Helvetica Neue", sans-serif;
+        background-color:black;
+        line-height:40px;
+        font-size:small;
+        margin-bottom: 10px;
+        float: left;
+        width:100%;
+        word-spacing: 40px;
     }
+       nav a {
+        color: lightgrey;
+        text-decoration: none;
+      }
+      
+      h2 {
+        margin-top: 0px;
+        background-color:#F2F2F2;
+      }
+      
+      section {
+        margin-bottom: 0px;
+      }
+      
+      footer {
+        background-color:white;
+        color:black;
+      }
+      
+      #features{
+        text-align:center;
+        font-family: "Helvetica Neue", sans-serif;
+        line-height:40px;
+        font-size:medium;
+        margin-bottom: 10px;
+        float: left;
+        width:100%;
+        color:#86868B;
+      }
+      #specifications{
+        text-align:center;
+        font-family: "Helvetica Neue", sans-serif;
+        line-height:40px;
+        font-size:medium;
+        margin-bottom: 10px;
+        float: left;
+        width:100%;
+        color:#86868B;
+      }
+      #pricing{
+        text-align:center;
+        font-family: "Helvetica Neue", sans-serif;
+        line-height:40px;
+        font-size:medium;
+        margin-bottom: 10px;
+        float: left;
+        width:100%;
+        color:#86868B;
+      }
+      #reviews{
+        text-align:center;
+        font-family: "Helvetica Neue", sans-serif;
+        line-height:40px;
+        font-size:medium;
+        margin-bottom: 10px;
+        float: left;
+        width:100%;
+        color:#86868B;
+      }
+      #Ecosystem{
+        text-align:center;
+        font-family: "Helvetica Neue", sans-serif;
+        line-height:40px;
+        font-size:medium;
+        margin-bottom: 10px;
+        float: left;
+        width:100%;
+        color:#86868B;
+      }
+      #Support{
+        text-align:center;
+        font-family: "Helvetica Neue", sans-serif;
+        line-height:40px;
+        font-size:medium;
+        margin-bottom: 10px;
+        float: left;
+        width:100%;
+        color:#86868B;
+      }
+      #Support a{
+        color:#86868B;
+      }
