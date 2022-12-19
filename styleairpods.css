@@ -22,6 +22,26 @@ nav{
     width:100%;
 }
 
+#navbar img{
+    width:10%;
+    float:left;
+    height: 40px;
+    width: 60px
+}
+#navbar a{
+    width:13.82%;
+    float:left;
+    padding-left: 20px;
+    color:#D6D6D6;
+    font-family: "Helvetica Neue", sans-serif;
+    text-decoration: none;
+    background-color: #323233;
+}
+#navbar{
+  width:100%;
+
+}
+
 #para1-div{
 margin-bottom: 200px;
 font-size: 70px;
