@@ -1,5 +1,5 @@
 *{
-    margin:0px%;
+    margin:auto;
     padding:0px;
     font-family: "Helvetica Neue", sans-serif;
     box-sizing: border-box;
@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
     width:10%;
 }
   #products{
-      height: 380px;
+      height: 340px;
     }
   #products img{
         float:left;
@@ -92,3 +92,37 @@ h1, h2, h3, h4, h5, h6 {
     #about p{
         color: #86868B;
     }
+    #main-div{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    #Box1-div{
+        width:30%;
+        min-height: 10px;
+        line-height: 25px;
+        text-align: left;
+        float:left;
+        margin-right:5%;
+    }
+    #Box2-div{
+        width:30%;
+        min-height: 10px;
+        line-height: 25px;
+        text-align:left;
+        float:left;
+        margin-right:5%;
+    }
+    
+    #Box3-div{
+        width:30%;
+        min-height: 10px;
+        line-height: 25px;
+        text-align:left;
+        float:right;
+    
+    }
+    footer {
+        background-color:white;
+        color:black;
+      }
