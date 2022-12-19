@@ -11,6 +11,17 @@
     margin-bottom: 60px;
 }
 
+nav{
+    text-align:center;
+    font-family: "Helvetica Neue", sans-serif;
+    background-color:black;
+    line-height: 40px;
+    font-size:medium;
+    margin-bottom: 10px;
+    float: left;
+    width:100%;
+}
+
 #para1-div{
 margin-bottom: 200px;
 font-size: 70px;
