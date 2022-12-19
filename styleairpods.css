@@ -37,6 +37,24 @@ font-size: 70px;
     margin-right: 100px;
 }
 
+#box2-div{
+    width: 100%;
+}
+
+#box2a-div{
+    float: left;
+    margin-right: 100px;
+}
+
+#box2b-div{
+    width:50%;
+    margin: 50px;
+    float: right;
+    height:300px;
+    text-align: center;
+    font-size: large;
+}
+
 body{
     background-color: black;
 }
