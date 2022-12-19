@@ -22,6 +22,26 @@ nav{
     width:100%;
 }
 
+#navbar img{
+    width:10%;
+    float:left;
+    height: 40px;
+    width: 60px
+}
+#navbar a{
+    width:13.82%;
+    float:left;
+    padding-left: 20px;
+    color:#D6D6D6;
+    font-family: "Helvetica Neue", sans-serif;
+    text-decoration: none;
+    background-color: #323233;
+}
+#navbar{
+  width:100%;
+
+}
+
 #para1-div{
 margin-bottom: 200px;
 font-size: 70px;
@@ -37,7 +57,7 @@ font-size: 70px;
 
 #box1a-div{
     width:50%;
-    margin: 40px;
+    margin-left: 80px;
     float: left;
     height:300px;
     text-align: center;
@@ -58,12 +78,12 @@ font-size: 70px;
 
 #box2a-div{
     float: left;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 #box2b-div{
     width:40%;
-    margin: 50px;
+    margin-right: 80px;
     float: right;
     height:300px;
     text-align: center;
