@@ -1,0 +1,114 @@
+header {
+    background-color:#F2F2F2;
+    color:#F2F2F2;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  nav{
+    text-align:center;
+    font-family: "Helvetica Neue", sans-serif;
+    background-color:black;
+    line-height: 40px;
+    font-size:medium;
+    margin-bottom: 10px;
+    float: left;
+    width:100%;
+}
+#navbar img{
+    width:10%;
+    float:left;
+    height: 40px;
+    width: 60px
+}
+#navbar a{
+    width:13.82%;
+    float:left;
+    padding-left: 20px;
+    color:#D6D6D6;
+    font-family: "Helvetica Neue", sans-serif;
+    text-decoration: none;
+    background-color: #323233;
+}
+#navbar{
+  width:100%;
+
+}
+  
+  h2 {
+    margin-top: 0px;
+    background-color:#F2F2F2;
+  }
+  
+  section {
+    margin-bottom: 0px;
+  }
+  
+ 
+  
+  #features{
+    text-align:center;
+    font-family: "Helvetica Neue", sans-serif;
+    line-height:40px;
+    font-size:medium;
+    margin-bottom: 10px;
+    float: left;
+    width:100%;
+    color:#86868B;
+  }
+  #specifications{
+    text-align:center;
+    font-family: "Helvetica Neue", sans-serif;
+    line-height:40px;
+    font-size:medium;
+    margin-bottom: 10px;
+    float: left;
+    width:100%;
+    color:#86868B;
+  }
+  #pricing{
+    text-align:center;
+    font-family: "Helvetica Neue", sans-serif;
+    line-height:40px;
+    font-size:medium;
+    margin-bottom: 10px;
+    float: left;
+    width:100%;
+    color:#86868B;
+  }
+  #reviews{
+    text-align:center;
+    font-family: "Helvetica Neue", sans-serif;
+    line-height:40px;
+    font-size:medium;
+    margin-bottom: 10px;
+    float: left;
+    width:100%;
+    color:#86868B;
+  }
+  #Eco{
+    text-align:center;
+    font-family: "Helvetica Neue", sans-serif;
+    line-height:40px;
+    font-size:medium;
+    margin-bottom: 10px;
+    float: left;
+    width:100%;
+    color:#86868B;
+  }
+  #Support{
+    text-align:center;
+    font-family: "Helvetica Neue", sans-serif;
+    line-height:40px;
+    font-size:medium;
+    margin-bottom: 10px;
+    float: left;
+    width:100%;
+    color:#86868B;
+  }
+  #Support a{
+    color:#86868B;
+  }
