@@ -57,7 +57,7 @@ font-size: 70px;
 
 #box1a-div{
     width:50%;
-    margin: 40px;
+    margin-left: 80px;
     float: left;
     height:300px;
     text-align: center;
@@ -78,12 +78,12 @@ font-size: 70px;
 
 #box2a-div{
     float: left;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 #box2b-div{
     width:40%;
-    margin: 50px;
+    margin-right: 80px;
     float: right;
     height:300px;
     text-align: center;
