@@ -12,13 +12,22 @@
       nav{
         text-align:center;
         font-family: "Helvetica Neue", sans-serif;
-        background-color:black;
+        background-color:#323233;
         line-height:40px;
         font-size:small;
         margin-bottom: 10px;
         float: left;
         width:100%;
         word-spacing: 40px;
+        
+    }
+
+    #nav img{
+       width:10%;
+      float:left;
+      height: 40px;
+      width: 60px;
+
     }
        nav a {
         color: lightgrey;
@@ -79,7 +88,7 @@
         width:100%;
         color:#86868B;
       }
-      #Ecosystem{
+      #Enivorment{
         text-align:center;
         font-family: "Helvetica Neue", sans-serif;
         line-height:40px;
@@ -102,3 +111,4 @@
       #Support a{
         color:#86868B;
       }
+      
