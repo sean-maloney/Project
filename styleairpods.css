@@ -1,9 +1,9 @@
 *{
-    color: white;
-    font-family: "Helvetica Neue", sans-serif; 
-    box-sizing: border-box; 
+    margin:auto;
+    padding:0px;
+    font-family: "Helvetica Neue", sans-serif;
+    box-sizing: border-box;
 }
-
 .clearfix::after{
     content:"";
     clear: both;
