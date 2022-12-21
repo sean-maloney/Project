@@ -29,7 +29,7 @@ nav{
     width: 60px
 }
 #navbar a{
-    width:12.857%;
+    width:13.82%;
     float:left;
     padding-left: 20px;
     color:#D6D6D6;
@@ -40,6 +40,21 @@ nav{
 #navbar{
   width:100%;
 
+}
+
+#logo{
+  float:left;
+  width:10%;
+}
+nav{
+    text-align:center;
+    font-family: "Helvetica Neue", sans-serif;
+    background-color:black;
+    line-height: 40px;
+    font-size:medium;
+    margin-bottom: 10px;
+    float: left;
+    width:100%;
 }
 
 #para1-div{
